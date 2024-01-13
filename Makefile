@@ -1,7 +1,7 @@
 
 # compile options (see README.md for descriptions)
 # 0 = disable
-# 1 = enable
+# 1 = enable 
 
 # ---- COMPILER/LINKER OPTIONS ----
 ENABLE_CLANG                  ?= 0
